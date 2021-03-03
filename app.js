@@ -48,3 +48,6 @@ fs.writeFile(`tablas/tabla-${ base}.txt`, data, (err) => {
 });
 */
 //crearArchivo(base).then(archivo => console.log(`Archivo creado: ${ archivo }`)).catch((e) => { console.log(e) });
+/*
+
+*/
